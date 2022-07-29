@@ -5,7 +5,7 @@ Essa foi minha primeira página web completa desenvolvida estava aprendendo CSS,
 
 Clique na imagem abaixo para acessar o projeto:
 
-<a href="https://projeto-frontendfinal-production.up.railway.app/" target="_blank"><img style="width:10%" src="https://www.acejundiai.com.br/wp-content/uploads/2019/06/png-internet-internet-icon-1600.png" alt="ícone pokedex"></a>
+<a href="https://mateussuricato.github.io/projeto-front_end_final/" target="_blank"><img style="width:10%" src="https://www.acejundiai.com.br/wp-content/uploads/2019/06/png-internet-internet-icon-1600.png" alt="ícone pokedex"></a>
 
 ## Stacks
 Ferramentas usadas:
